@@ -86,3 +86,4 @@ close(sockfd);
 https://broux.developpez.com/articles/c/sockets/ (a complete french documentation)  
 https://man.archlinux.org/man/  
 https://man7.org/linux/man-pages/  
+Special mention to @h0mbre ˚ʚ♡ɞ˚
